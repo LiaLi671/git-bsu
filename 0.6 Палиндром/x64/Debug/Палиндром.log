@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELTA\Documents\ПРОГА\3 семестр\АиСД\Палиндром\Source.cpp(54,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\DELTA\Documents\ПРОГА\3 семестр\АиСД\Палиндром\Source.cpp(75,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Палиндром.vcxproj -> C:\Users\DELTA\Documents\ПРОГА\3 семестр\АиСД\Палиндром\x64\Debug\Палиндром.exe
